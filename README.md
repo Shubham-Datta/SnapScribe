@@ -113,6 +113,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Acknowledgments
 
 We gratefully acknowledge the following resources and tools that made this project possible:
+
 -Flickr8k Dataset: Provided by the University of Illinois at Urbana-Champaign, offering a high-quality benchmark for image captioning research.
 
 -EfficientNetB0: Pre-trained model by Google Brain, used for feature extraction from images.
