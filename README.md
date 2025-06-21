@@ -114,11 +114,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 We gratefully acknowledge the following resources and tools that made this project possible:
 
--Flickr8k Dataset: Provided by the University of Illinois at Urbana-Champaign, offering a high-quality benchmark for image captioning research.
+- Flickr8k Dataset: Provided by the University of Illinois at Urbana-Champaign, offering a high-quality benchmark for image captioning research.
 
--EfficientNetB0: Pre-trained model by Google Brain, used for feature extraction from images.
+- EfficientNetB0: Pre-trained model by Google Brain, used for feature extraction from images.
 
--TensorFlow & Keras: For providing a powerful deep learning framework to build and train the model.
+- TensorFlow & Keras: For providing a powerful deep learning framework to build and train the model.
 
--Google Colab: For offering free access to GPUs and an excellent cloud-based environment for development and training.
+- Google Colab: For offering free access to GPUs and an excellent cloud-based environment for development and training.
 
